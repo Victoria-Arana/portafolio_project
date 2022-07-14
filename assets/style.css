@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(234, 241, 243);
+  }
+
+h1 {
+    font-family: Garamond, serif;
+    color:rgb(12, 12, 12)   
+  }
+  h2 {
+    font-family: Garamond;
+    color:darkslateblue
+
+  }
+
+  .center {
+    text-align: center
+  }
+
+  div {
+    background-color: whitesmoke;
+  }
+
+  div {
+    background-color: rgb(252, 255, 255);
+  }
