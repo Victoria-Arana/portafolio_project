@@ -1,25 +1,32 @@
 body {
+  text-align: center;
     background-color: rgb(234, 241, 243);
+
   }
+  
 
 h1 {
     font-family: Garamond, serif;
     color:rgb(12, 12, 12)   
   }
-  h2 {
+
+  .headline {
     font-family: Garamond;
-    color:darkslateblue
+    color:black
 
   }
 
-  .center {
-    text-align: center
+  .intro {
+    background-color: rgb(228, 222, 235);
   }
 
-  div {
-    background-color: whitesmoke;
+  .description {
+    background-color:rgb(193, 206, 232)
+  }
+  
+  .paragrah {
+    background-color: aqua;
+
   }
 
-  div {
-    background-color: rgb(252, 255, 255);
-  }
+
