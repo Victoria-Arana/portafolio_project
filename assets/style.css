@@ -28,5 +28,20 @@ h1 {
     background-color: aqua;
 
   }
-
-
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+    color: rgb(221, 0, 255);
+  }
